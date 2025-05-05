@@ -1,0 +1,53 @@
+body {
+    color: darkgoldenrod;
+    background-color: rgb(30, 43, 161);
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul {
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+a {
+    color: darkgoldenrod;
+    text-decoration: none;
+}
+header img {
+    width: 200px;
+    height: 200px;
+}
+.center {
+    text-align: center;
+}
+H2 {
+    color: white;
+}
+h3 {
+    color: white;
+}
+p {
+    color: white;
+}
+footer img {
+    width: 80px;
+    height: 80px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+
+}
+footer p {
+    text-align: center;
+    margin-top: 1mm;
+}
+.container {
+    padding: 0px 50pxx;
+}
+nav a:hover {
+    color: white;
+}
+
+
