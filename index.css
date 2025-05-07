@@ -50,4 +50,22 @@ nav a:hover {
     color: white;
 }
 
+.contact-form input {
+    width: 100%;
+    padding: 8px 0px;
+}
 
+.contact-form input[type=text] {
+ height: 100px;
+}
+
+button {
+    background-color: darkgoldenrod;
+    border: none;
+    width: 100px;
+    height: 30px;
+} 
+img {
+    width: 600PX;
+    height: 600PX;
+}
